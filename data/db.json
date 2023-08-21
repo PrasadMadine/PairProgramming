@@ -1,0 +1,31 @@
+{
+    "user": [
+        {
+            "userName" : "prasad",
+            "CardName": "H&M",
+            "CardLabel": "casio",
+            "amount": "$42,000",
+            "Date": "20-08-2023 12:30",
+            "receipt": "#203847",
+            "memo": "21-00006"
+        },
+        {
+            "userName" : "raj",
+            "CardName": "H&M",
+            "CardLabel": "casio",
+            "amount": "$42,000",
+            "Date": "20-08-2023 12:30",
+            "receipt": "#203847",
+            "memo": "21-00006"
+        },
+        {
+            "userName" : "vara",
+            "CardName": "H&M",
+            "CardLabel": "casio",
+            "amount": "$42,000",
+            "Date": "20-08-2023 12:30",
+            "receipt": "#203847",
+            "memo": "21-00006"
+        }
+    ]
+}
